@@ -54,7 +54,7 @@
             // 
             // btnCreateControls
             // 
-            this.btnCreateControls.Location = new System.Drawing.Point(139, 204);
+            this.btnCreateControls.Location = new System.Drawing.Point(190, 207);
             this.btnCreateControls.Name = "btnCreateControls";
             this.btnCreateControls.Size = new System.Drawing.Size(141, 41);
             this.btnCreateControls.TabIndex = 2;
@@ -78,7 +78,7 @@
             "Button",
             "TextBox",
             "Label"});
-            this.CmboxControlTybe.Location = new System.Drawing.Point(139, 118);
+            this.CmboxControlTybe.Location = new System.Drawing.Point(139, 121);
             this.CmboxControlTybe.Name = "CmboxControlTybe";
             this.CmboxControlTybe.Size = new System.Drawing.Size(241, 21);
             this.CmboxControlTybe.TabIndex = 4;
